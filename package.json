@@ -1,0 +1,17 @@
+{
+  "name": "trie-index",
+  "version": "0.1.0",
+  "description": "fixed vocab autocomplete using a trie lookup",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
