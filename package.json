@@ -1,6 +1,6 @@
 {
   "name": "trie-index",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "fixed vocab autocomplete using a trie lookup",
   "type": "module",
   "main": "src/index.js",
